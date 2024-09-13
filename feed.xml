@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Cardano Cantabria Community</title>
+    <link href="https://cardano-cantabria.github.io/feed.xml" rel="self" />
+    <link href="https://cardano-cantabria.github.io" />
+    <updated>2024-09-13T12:41:45+02:00</updated>
+    <author>
+        <name>Cardano Cantabria</name>
+    </author>
+    <id>https://cardano-cantabria.github.io</id>
+
+    <entry>
+        <title>Bienvenidos</title>
+        <author>
+            <name>Cardano Cantabria</name>
+        </author>
+        <link href="https://cardano-cantabria.github.io/bienvenidos/"/>
+        <id>https://cardano-cantabria.github.io/bienvenidos/</id>
+
+        <updated>2024-09-13T12:41:45+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://cardano-cantabria.github.io/media/posts/2/logocardanocantabriaazul.png" alt="Cantabria Cardano Community" width="1067" height="442" sizes="(max-width: 48em) 100vw, 768px" srcset="https://cardano-cantabria.github.io/media/posts/2/responsive/logocardanocantabriaazul-xs.png 300w ,https://cardano-cantabria.github.io/media/posts/2/responsive/logocardanocantabriaazul-sm.png 480w ,https://cardano-cantabria.github.io/media/posts/2/responsive/logocardanocantabriaazul-md.png 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
