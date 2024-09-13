@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://cardano-cantabria.github.io/cardano-cantabria.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://cardano-cantabria.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://cardano-cantabria.github.io/cardano-cantabria.github.io/</loc>
+<loc>https://cardano-cantabria.github.io/</loc>
 </url>
 <url>
-<loc>https://cardano-cantabria.github.io/cardano-cantabria.github.io/bienvenidos/</loc>
+<loc>https://cardano-cantabria.github.io/bienvenidos/</loc>
 <lastmod>2024-09-13T12:41:45+02:00</lastmod>
 <image:image>
-<image:loc>https://cardano-cantabria.github.io/cardano-cantabria.github.io/media/posts/2/logocardanocantabriaazul.png</image:loc>
+<image:loc>https://cardano-cantabria.github.io/media/posts/2/logocardanocantabriaazul.png</image:loc>
 <image:title><![CDATA[Cantabria Cardano Community]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://cardano-cantabria.github.io/cardano-cantabria.github.io/politica-de-privacidad-del-sitio-web-de-cardano-cantabria-community/</loc>
+<loc>https://cardano-cantabria.github.io/politica-de-privacidad-del-sitio-web-de-cardano-cantabria-community/</loc>
 <lastmod>2024-09-13T13:04:19+02:00</lastmod>
 </url>
 <url>
-<loc>https://cardano-cantabria.github.io/cardano-cantabria.github.io/politica-de-privacidad-del-taller-constitucional-de-cardano-en-santander/</loc>
+<loc>https://cardano-cantabria.github.io/politica-de-privacidad-del-taller-constitucional-de-cardano-en-santander/</loc>
 <lastmod>2024-09-13T13:18:52+02:00</lastmod>
 </url>
 </urlset>
